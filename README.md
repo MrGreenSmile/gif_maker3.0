@@ -4,7 +4,7 @@ used moviepy and PIL(pillow) for image process.
 
 used tkinter for GUI.
 
-(practiced in base.py)
+(practiced in base1.py and base2.py)
 
 *to use this, download the exe and icon file*
 
