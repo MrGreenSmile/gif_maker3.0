@@ -24,7 +24,7 @@ used tkinter for GUI.
 
 0. Prepare images.
 1. Set attributes.
-2. Press 'Open Images' to choose file. List will appear below blank area.
+2. Press 'Open Images' to choose file. List will appear below blank area. (List start with "-", but do not modify it.)
 3. Reorder images list.
 4. Press '여!' to finish process.
 
